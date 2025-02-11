@@ -1,0 +1,61 @@
+.apolloapp p{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #233d3c;
+    text-align: center;
+    margin-right: 170px;
+    margin-bottom: 0;
+    
+}
+.footerleft{
+    flex: 1;
+}
+.footermiddle{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-left: 70px;
+    flex: 2;
+}
+.footerright{
+    flex: 1;
+    height: 120px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 50px;
+}
+.footerapollo{
+    width:150px;
+    height: 120px;
+}
+.images{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 170px;
+}
+.find p{
+    font-family: sans-serif;
+    color: #233d3c;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.find{
+    height: 40px;
+}
+.fa-3x{
+    margin-right: 15px;
+}
+
+#icons{
+    margin-top: 10px;
+    width: 260px;
+}
+.bgcolor{
+    background-color: #e5f9f8;
+}
